@@ -1,13 +1,15 @@
-#Assingment
+#Assignment
 -
-Obtain 500 unique cities
+*Obtain list of at least 500 unique cities.*
 
-#To Do
-__Scatter Plots__
-Temp vs Lat
-Hum vs Lat
-Cloud vs Lat
-WndSpd vs Lat
+*Using OpenWeaterMap(OWM), obtain respective weather data for analysis.  Used time package to not oversaturate API calls.*
 
-Save .csv
+*Generate a pandas dataframe and display it.*
+
+*Export results to a csv file.*
+
+*Generate 4 matplotlib plots to visualize data acquired.  Temperature, humidity, cloudiness and wind speed will be plotted against latitude.  .PNG files will be generated in root folder.*
+
+*Run statistical analysis using Scipy pearson module to determine correlation of respective x, y features.*
+
 
